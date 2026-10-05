@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Portrait of Mudra Dattatray Kamble</title>
+  <desc id="desc">Stylized portrait artwork with dark hair, brown eyes, smile, and traditional black and mustard outfit.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8f5f2"/>
+      <stop offset="100%" stop-color="#efefef"/>
+    </linearGradient>
+    <linearGradient id="top" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1a1c22"/>
+      <stop offset="100%" stop-color="#060709"/>
+    </linearGradient>
+    <linearGradient id="blouse" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#b89d4e"/>
+      <stop offset="100%" stop-color="#7d6b2c"/>
+    </linearGradient>
+    <linearGradient id="skin" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f4d0b3"/>
+      <stop offset="100%" stop-color="#d4a47c"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="1200" fill="url(#bg)"/>
+
+  <g transform="translate(0,10)">
+    <ellipse cx="450" cy="995" rx="250" ry="55" fill="#d8d4cf" opacity="0.35"/>
+
+    <path d="M290 970 Q450 1110 610 970 L620 1040 L270 1040 Z" fill="url(#top)" opacity="0.9"/>
+    <path d="M255 1010 Q345 880 450 866 Q555 882 645 1012 L620 1080 L270 1080 Z" fill="url(#blouse)"/>
+    <path d="M360 760 Q450 810 540 760 L560 960 Q450 1000 340 960 Z" fill="url(#blouse)" opacity="0.85"/>
+
+    <path d="M300 610 C300 490 370 350 450 350 C530 350 600 490 600 610 L600 860 C600 930 545 980 450 980 C355 980 300 930 300 860 Z" fill="url(#skin)"/>
+
+    <path d="M285 520 C250 420 300 260 410 220 C410 190 430 150 450 145 C470 150 490 190 490 220 C575 250 635 422 610 550 C610 540 570 500 532 490 C540 440 520 392 450 392 C378 392 360 440 370 490 C335 500 305 535 285 520 Z" fill="#111111"/>
+
+    <path d="M315 385 C260 420 250 470 270 520 C330 490 367 452 390 420 C380 392 355 380 315 385 Z" fill="#1a1a1a" opacity="0.9"/>
+    <path d="M585 385 C640 420 650 470 630 520 C570 490 533 452 510 420 C520 392 545 380 585 385 Z" fill="#1a1a1a" opacity="0.9"/>
+
+    <g>
+      <ellipse cx="385" cy="520" rx="26" ry="18" fill="#2f1b12"/>
+      <ellipse cx="515" cy="520" rx="26" ry="18" fill="#2f1b12"/>
+      <circle cx="381" cy="515" r="6" fill="#ffffff"/>
+      <circle cx="511" cy="515" r="6" fill="#ffffff"/>
+      <path d="M432 565 Q450 585 468 565" stroke="#9b5b3d" stroke-width="8" fill="none" stroke-linecap="round"/>
+      <path d="M412 590 Q450 610 488 590" stroke="#ad6d56" stroke-width="7" fill="none" stroke-linecap="round"/>
+      <path d="M364 635 C420 680 480 680 536 635" stroke="#b5705d" stroke-width="10" fill="none" stroke-linecap="round"/>
+    </g>
+
+    <path d="M330 695 C390 620 510 620 570 695" fill="#f0c2a7" opacity="0.35"/>
+
+    <g>
+      <circle cx="255" cy="560" r="34" fill="#ede7e2" opacity="0.9"/>
+      <circle cx="255" cy="560" r="20" fill="#b3d9dc" opacity="0.55"/>
+      <circle cx="255" cy="560" r="10" fill="#7a9aa7" opacity="0.7"/>
+      <circle cx="645" cy="560" r="34" fill="#ede7e2" opacity="0.9"/>
+      <circle cx="645" cy="560" r="20" fill="#b3d9dc" opacity="0.55"/>
+      <circle cx="645" cy="560" r="10" fill="#7a9aa7" opacity="0.7"/>
+    </g>
+
+    <g>
+      <path d="M372 687 L340 870" stroke="#d0a83d" stroke-width="6" stroke-linecap="round"/>
+      <circle cx="340" cy="870" r="9" fill="#d0a83d"/>
+      <path d="M528 687 L560 870" stroke="#d0a83d" stroke-width="6" stroke-linecap="round"/>
+      <circle cx="560" cy="870" r="9" fill="#d0a83d"/>
+    </g>
+
+    <path d="M360 775 Q450 800 540 775" stroke="#c89b3f" stroke-width="5" fill="none" stroke-linecap="round"/>
+    <circle cx="450" cy="805" r="12" fill="#d6b255"/>
+    <circle cx="450" cy="805" r="20" fill="none" stroke="#d6b255" stroke-width="3" opacity="0.8"/>
+
+    <g>
+      <path d="M275 600 L245 660 C230 695 255 715 285 700 L318 602 Z" fill="#111111" opacity="0.9"/>
+      <path d="M625 600 L655 660 C670 695 645 715 615 700 L582 602 Z" fill="#111111" opacity="0.9"/>
+    </g>
+
+    <g fill="#f4f4f3" opacity="0.9">
+      <circle cx="260" cy="530" r="18"/>
+      <circle cx="640" cy="530" r="18"/>
+      <circle cx="275" cy="560" r="12"/>
+      <circle cx="625" cy="560" r="12"/>
+    </g>
+
+    <path d="M410 940 L470 940 L460 1000 L420 1000 Z" fill="#c4aa4f" opacity="0.9"/>
+  </g>
+</svg>
